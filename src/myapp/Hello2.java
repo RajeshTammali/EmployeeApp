@@ -5,7 +5,7 @@ public class Hello2 {
  
 	 System.out.println("Jai Sri Ganesh");
 	 
-	 int age=18;
+	 int age=16;
 	 if(age>=18)
 	 {
 		 System.out.println("you are eligible to cast your vote");
